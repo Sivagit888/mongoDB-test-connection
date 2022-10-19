@@ -1,0 +1,18 @@
+{
+  "name": "newmongodb",
+  "version": "1.0.0",
+  "description": "testing mongp",
+  "main": "index.js",
+  "scripts": {
+   "start":"node index.js"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "sankar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongoose": "^6.6.5"
+  }
+}
